@@ -45,13 +45,16 @@
 
 ###  2) The Morse Code sequence can only contain '0', '1' or '*' - as the delimeter.
 
-
+![2](https://user-images.githubusercontent.com/42957613/97344317-9817ba00-18ae-11eb-96cf-b6cd83f0f378.PNG)
 
 
 ### 3) Every sentence MUST end with either ',' , '.' or a '?' else should be deemed Invalid.
 
+![3](https://user-images.githubusercontent.com/42957613/97344426-c0071d80-18ae-11eb-9fee-b41977965f1d.PNG)
 
 ### Once all the above criterias are met, below is the screenshot of using all the classes created:
+
+![final](https://user-images.githubusercontent.com/42957613/97344486-d2815700-18ae-11eb-8ebc-528ab50fa8bf.PNG)
 
 
 
