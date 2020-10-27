@@ -40,8 +40,12 @@
 
 ### 1) The Morse Code sequences can be of any length but with the minimum length of 1.
 
+![1](https://user-images.githubusercontent.com/42957613/97344142-60a90d80-18ae-11eb-9ba7-0ba0cb662f31.PNG)
+
 
 ###  2) The Morse Code sequence can only contain '0', '1' or '*' - as the delimeter.
+
+
 
 
 ### 3) Every sentence MUST end with either ',' , '.' or a '?' else should be deemed Invalid.
