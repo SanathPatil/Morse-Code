@@ -24,11 +24,11 @@
 
 ## 1.2: Building character analyzer class:
 
-### Here, character analyzer will give the count of each character in the decoded sentence. A method is used to remove punctuation from the sequence. Finally, the decoded             ### characters are stored in dictionary and presented in ‘for’ loop.
+### Here, character analyzer will give the count of each character in the decoded sentence. A method is used to remove punctuation from the sequence. Finally, the decoded characters are stored in dictionary and presented in ‘for’ loop.
 
 ## 1.3: Building word analyzer class:
 
-### Here, word analyzer will give the count of each word in the decoded sentence. A method is used to remove punctuation from the sequence. Finally, the decoded words are stored ### in dictionary and presented in ‘for’ loop.
+### Here, word analyzer will give the count of each word in the decoded sentence. A method is used to remove punctuation from the sequence. Finally, the decoded words are stored in dictionary and presented in ‘for’ loop.
 
 ## 1.4: Building sentence analyzer class:
 ### Here, sentence analyzer will give the count of each sentence punctuation in the decoded sentence. A method is used to remove word from the sequence to identify the punctuations. Finally, the output is stored in dictionary and presented in ‘for’ loop.
