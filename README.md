@@ -11,7 +11,7 @@
 ### 3) The Morse Code can contain as many sentences, provided:
 ###   - Every sentence MUST end with either ',' , '.' or a '?' else should be deemed Invalid.
 ###   - Each sentence is delimited with ','.
-###   - a letter is delimited with '*' and a word with '***'.
+###   - a letter is delimited with ' * ' and a word with '***'.
 
 ## Implementation:
 
