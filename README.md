@@ -34,7 +34,7 @@
 ### Here, sentence analyzer will give the count of each sentence punctuation in the decoded sentence. A method is used to remove word from the sequence to identify the punctuations. Finally, the output is stored in dictionary and presented in ‘for’ loop.
 
 ## 1.5: Main method:
-### Here, objects for each classes is created and called appropriately. A method (valid_seq) is used to validate the input sequence.  A menu option is given to user to select which ### analysis is required. Finally, exception is implemented to catch if any.
+### Here, objects for each classes is created and called appropriately. A method (valid_seq) is used to validate the input sequence.  A menu option is given to user to select which analysis is required. Finally, exception is implemented to catch if any.
 
 ## OutPut:
 
